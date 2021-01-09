@@ -1,7 +1,10 @@
+
+
 function AllComponen() {
     return (
         <div className="container"> 
-            <Data/>
+            <ReadData /> 
+            
         </div>
     )
 }
